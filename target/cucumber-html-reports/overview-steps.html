@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<script src="js/jquery.min.js"></script>
+<script src="js/jquery.tablesorter.min.js"></script>
+<script src="js/Chart.min.js"></script>
+<script src="js/moment.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+
+<link rel="stylesheet" href="css/bootstrap.min.css" type="text/css"/>
+<link rel="stylesheet" href="css/cucumber.css" type="text/css"/>
+<link rel="stylesheet" href="css/font-awesome.min.css"/>
+<link rel="shortcut icon" href="images/favicon.png"/>
+
+<script>
+$(document).ready(function() {
+    // this will tell tablesorter to try looking for the data-value attribute
+    // if present, it'll sort by that instead
+    // otherwise, it'll sort by the text content of the table cell
+    $("#tablesorter").tablesorter({
+        textAttribute: 'data-value',
+        // ignores the first row of the header, the 'scenario', 'steps', since
+        // sorting those doesn't make sense
+        selectorHeaders: '> thead tr:not(.dont-sort) th',
+        // use a stable sort
+        sortStable: true
+    });
+});
+</script>
+
+
+
+
+
+
+
+
+
+
+
+<title>Cucumber Reports (no 1) - Steps Overview</title>
+
+</head>
+<body>
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navigation">
+  <div class="container-fluid">
+    <div class="collapse navbar-collapse">
+      <p class="navbar-text navbar-left">Cucumber Report</p>
+      <ul class="nav navbar-nav navbar-right">
+        <li role="presentation" ><a href="overview-features.html">Features</a></li>
+        <li role="presentation" ><a href="overview-tags.html">Tags</a></li>
+        <li role="presentation"     class="active" ><a href="overview-steps.html">Steps</a></li>
+        <li role="presentation" ><a href="overview-failures.html">Failures</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+<div class="container-fluid">
+  <div class="col-md-5 col-md-offset-1">
+
+<table class="table table-bordered" id="build-info">
+  <thead>
+    <tr>
+      <th>Project</th>
+        <th>Number</th>
+      <th>Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="info">
+      <td>cucumber-framework</td>
+        <td>1</td>
+      <td>05 Mar 2023, 00:58</td>
+    </tr>
+  </tbody>
+</table>
+
+  </div>
+  <div class="col-md-3 col-md-offset-2">
+  </div>
+</div>
+
+
+<div id="report-lead" class="container-fluid">
+  <div class="col-md-10 col-md-offset-1">
+    <h2>Steps Statistics</h2>
+      <p>The following graph shows step statistics for this build. Below list is based on results.
+ step does not provide information about result then is not listed below.
+ Additionally @Before and @After are not counted because they are part of the scenarios, not steps.</p>
+  </div>
+</div>
+
+<div class="container-fluid" id="report">
+  <div class="row">
+    <div class="col-md-10 col-md-offset-1">
+      <table id="tablesorter" class="stats-table table-hover">
+
+        <thead>
+          <tr class="header">
+            <th>Implementation</th>
+            <th>Occurrences</th>
+            <th>Average duration</th>
+            <th>Max duration</th>
+            <th>Total durations</th>
+            <th>Ratio</th>
+          </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+              <td class="location">stepdefinitions.DataTablesStepDefinitions.firstname_in_olustugunu_test_et(java.lang.String)</td>
+              <td>5</td>
+              <td class="duration" data-value="1122517220">1.122</td>
+              <td class="duration" data-value="1122517220">1.240</td>
+              <td class="duration" data-value="5612586100">5.612</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">stepdefinitions.DataTablesStepDefinitions.kullanici_create_buttonuna_basar()</td>
+              <td>5</td>
+              <td class="duration" data-value="231498060">0.231</td>
+              <td class="duration" data-value="231498060">0.412</td>
+              <td class="duration" data-value="1157490300">1.157</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">stepdefinitions.DataTablesStepDefinitions.kullanici_extension_girer(java.lang.String)</td>
+              <td>5</td>
+              <td class="duration" data-value="236989960">0.236</td>
+              <td class="duration" data-value="236989960">0.366</td>
+              <td class="duration" data-value="1184949800">1.184</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">stepdefinitions.DataTablesStepDefinitions.kullanici_first_name_girer(java.lang.String)</td>
+              <td>5</td>
+              <td class="duration" data-value="444208240">0.444</td>
+              <td class="duration" data-value="444208240">0.846</td>
+              <td class="duration" data-value="2221041200">2.221</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">stepdefinitions.DataTablesStepDefinitions.kullanici_firstname_ile_arar(java.lang.String)</td>
+              <td>5</td>
+              <td class="duration" data-value="378625240">0.378</td>
+              <td class="duration" data-value="378625240">0.557</td>
+              <td class="duration" data-value="1893126200">1.893</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">stepdefinitions.DataTablesStepDefinitions.kullanici_gider(java.lang.String)</td>
+              <td>5</td>
+              <td class="duration" data-value="8102830480">8.102</td>
+              <td class="duration" data-value="8102830480">14.216</td>
+              <td class="duration" data-value="40514152400">40.514</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">stepdefinitions.DataTablesStepDefinitions.kullanici_last_name_girer(java.lang.String)</td>
+              <td>5</td>
+              <td class="duration" data-value="255887980">0.255</td>
+              <td class="duration" data-value="255887980">0.321</td>
+              <td class="duration" data-value="1279439900">1.279</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">stepdefinitions.DataTablesStepDefinitions.kullanici_new_butonuna_tiklar()</td>
+              <td>5</td>
+              <td class="duration" data-value="757744240">0.757</td>
+              <td class="duration" data-value="757744240">0.979</td>
+              <td class="duration" data-value="3788721200">3.788</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">stepdefinitions.DataTablesStepDefinitions.kullanici_office_girer(java.lang.String)</td>
+              <td>5</td>
+              <td class="duration" data-value="250967860">0.250</td>
+              <td class="duration" data-value="250967860">0.331</td>
+              <td class="duration" data-value="1254839300">1.254</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">stepdefinitions.DataTablesStepDefinitions.kullanici_positions_girer(java.lang.String)</td>
+              <td>5</td>
+              <td class="duration" data-value="281384320">0.281</td>
+              <td class="duration" data-value="281384320">0.398</td>
+              <td class="duration" data-value="1406921600">1.406</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">stepdefinitions.DataTablesStepDefinitions.kullanici_salary_girer(java.lang.String)</td>
+              <td>5</td>
+              <td class="duration" data-value="205735720">0.205</td>
+              <td class="duration" data-value="205735720">0.273</td>
+              <td class="duration" data-value="1028678600">1.028</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">stepdefinitions.DataTablesStepDefinitions.kullanici_start_date_girer(java.lang.String)</td>
+              <td>5</td>
+              <td class="duration" data-value="622627520">0.622</td>
+              <td class="duration" data-value="622627520">1.263</td>
+              <td class="duration" data-value="3113137600">3.113</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">stepdefinitions.GoogleStepDefinitions.close_the_application()</td>
+              <td>5</td>
+              <td class="duration" data-value="3033810820">3.033</td>
+              <td class="duration" data-value="3033810820">12.840</td>
+              <td class="duration" data-value="15169054100">15.169</td>
+              <td class="passed">100.00%</td>
+            </tr>
+        </tbody>
+
+        <tfoot class="total">
+          <tr>
+            <td>13</td>
+            <td>65</td>
+            <td class="duration">1.224</td>
+            <td class="duration">40.514</td>
+            <td class="duration">1:19.624</td>
+            <td>Totals</td>
+          </tr>
+        </tfoot>
+
+      </table>
+    </div>
+  </div>
+</div>
+
+
+<nav class="navbar navbar-default" id="footer">
+  <div class="container-fluid">
+    <p class="navbar-text navbar-right">
+        <small>generate Cucumber HTML reports via:&nbsp;</small>
+        <a class="navbar-link" href="https://github.com/jenkinsci/cucumber-reports-plugin">Jenkins Plugin</a> |
+        <a class="navbar-link" href="https://github.com/damianszczepanik/cucumber-reporting">Standalone</a> |
+        <a class="navbar-link" href="https://github.com/damianszczepanik/cucumber-sandwich">Sandwich</a> |
+        <a class="navbar-link" href="https://github.com/damianszczepanik/maven-cucumber-reporting">Maven</a>
+        &nbsp;&nbsp;
+    </p>
+  </div>
+</nav>
+
+</body>
+</html>

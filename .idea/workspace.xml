@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8c0080c1-8a1c-4c61-80b5-79fe0cb4fa43" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../AhmetHoca/src/AhmetHoca.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/belirliclasslar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/belirligruplar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/paralleltest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/regressiontests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/regressiontests/xml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/smoketests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/resources/mysmoketestdata.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/pages/BlueRentalHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/pages/BlueRentalLoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/pages/DiligentLibrariesHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/pages/DiligentLibrariesLoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/pages/OpenSourceDashboardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/pages/OpenSourcePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/pages/PracticeDiligents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/pages/TechproHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/pages/TechproLoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/tests/DataMensei" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/tests/Day19_TestNGAnnotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/tests/Day20_DependsOnMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/tests/Day20_Driver_Config_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/tests/Day20_SoftAssertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/tests/Day21_OpenSourceLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/tests/Day21_TechproLoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/tests/HubcomfyHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/tests/Raporlama" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/tests/dataprovider/Day24_DataProviderTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/tests/dataprovider/Day24_DataProviderTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/tests/dataprovider/Day24_DataProviderTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/tests/dataprovider/Day25_DataProviderTest4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/tests/dataprovider/DiligentLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/tests/dataprovider/DiligentLoginExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/tests/excelautomation/Day23_ExcelLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/tests/excelautomation/Day24_ExcelLogin2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/tests/listeners/Day27_ListenersTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/tests/listeners/Day27_ListenersTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/tests/listeners/Day27_ListenersTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/tests/listeners/Day27_ListenersTest4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/tests/listeners/NOT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/tests/listeners/NOT2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/tests/paralleltesting/Day26_ManagerLoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/tests/paralleltesting/Day26_SearchItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/tests/paralleltesting/Day26_TechProEducationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/tests/paralleltesting/NOT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/tests/smoketests/Day22_NegativeLoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/tests/smoketests/Day22_PositiveLoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/tests/smoketests/NormalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/tests/smoketests/smokeTestNeedri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/utilities/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/utilities/DataProviderUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/utilities/ExcelUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/utilities/Interview" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/utilities/Listeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/utilities/ListenersRetry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/utilities/ListenersRetryAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B103TestNGPrroject/src/test/java/techproed/utilities/ReusableMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Erdem/.idea/Erdem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ErolHocaCucumberPractic/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ErolHocaCucumberPractic/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ErolHocaCucumberPractic/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ErolHocaCucumberPractic/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ErolHocaCucumberPractic/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ErolHocaCucumberPractic/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ErolHocaCucumberPractic/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ErolHocaCucumberPractic/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ErolHocaCucumberPractic/src/test/java/pages/AmazonPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ErolHocaCucumberPractic/src/test/java/runners/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ErolHocaCucumberPractic/src/test/java/stepdefinitions/AmazonStepDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ErolHocaCucumberPractic/src/test/java/utilities/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ErolHocaCucumberPractic/src/test/java/utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ErolHocaCucumberPractic/src/test/resources/features/amazonTest.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HubcomfyTestNGProject/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HubcomfyTestNGProject/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HubcomfyTestNGProject/src/test/java/projeTestNg/pages/BlueHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HubcomfyTestNGProject/src/test/java/projeTestNg/pages/BlueLoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HubcomfyTestNGProject/src/test/java/projeTestNg/pages/HubcomfyHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HubcomfyTestNGProject/src/test/java/projeTestNg/pages/HubcomfyLoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HubcomfyTestNGProject/src/test/java/projeTestNg/pages/HubcomfyPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HubcomfyTestNGProject/src/test/java/projeTestNg/pages/TechProLogout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HubcomfyTestNGProject/src/test/java/projeTestNg/pages/TechProedPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HubcomfyTestNGProject/src/test/java/projeTestNg/tests/HubComfy_Musteri_Billing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HubcomfyTestNGProject/src/test/java/projeTestNg/tests/HubComfy_Musteri_Shipping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HubcomfyTestNGProject/src/test/java/projeTestNg/tests/HubComfy_Vendor_Shipping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HubcomfyTestNGProject/src/test/java/projeTestNg/tests/TechProedLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HubcomfyTestNGProject/src/test/java/projeTestNg/tests/smoketests/day22_NegativeLoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HubcomfyTestNGProject/src/test/java/projeTestNg/tests/smoketests/day22_PositiveLoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HubcomfyTestNGProject/src/test/java/projeTestNg/utulities/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HubcomfyTestNGProject/src/test/java/projeTestNg/utulities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HubcomfyTestNGProject/src/test/java/projeTestNg/utulities/ReusableMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HubcomfyTestNGProject/src/test/java/projeTestNg/utulities/dataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaSlaytSoruları/.idea/JavaSlaytSoruları.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambdapractic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambdapractic/src/main/java/LambdaFrotanH/LambdaInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambdapractic/src/main/java/LambdaFrotanH/LambdaString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MarketTask/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostgreJDBC/src/main/java/CallableStatement01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostgreJDBC/src/main/java/JdbcUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostgreJDBC/src/main/java/PreparedStatement01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostgreJDBC/src/main/java/runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostgreJDBC/src/test/java/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SSG/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/AhmetBulutluOz/L01_GetNavigateWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/AhmetBulutluOz/L02_Soru2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/AhmetBulutluOz/L02_Soru3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/AhmetBulutluOz/L02_WebElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/AhmetBulutluOz/L03_AfterBeforeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/AhmetBulutluOz/L03_BeforeAfter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/AhmetBulutluOz/L03_JUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/AhmetBulutluOz/L06_Assertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/AhmetBulutluOz/L07_Assertion_Ornek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/AhmetBulutluOz/L08_Actions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/AhmetBulutluOz/L09_TestNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/Homework/C04_UcluTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/Homework/C06_Fake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/Homework/Q01_IframeOdev.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/Homework/Q02_WindowHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/Homework/Q03_Actions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/Selenium_Study/KodOkuma_01_MonkeyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/Selenium_Study/Kod_Okuma_01" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/Selenium_Study/Q111.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/Selenium_Study/QEKSTRA_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/Selenium_Study/Q_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/Selenium_Study/Q_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/Selenium_Study/Q_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/Selenium_Study/Q_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/Selenium_Study/Q_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/Selenium_Study/Q_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/Selenium_Study/Q_07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/Selenium_Study/Q_08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/Selenium_Study/Q_09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/Selenium_Study/Q_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/Selenium_Study/Q_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/Selenium_Study/Q_12_WindowHandleDrang_And_Drop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/Selenium_Study/Q_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/exercises/Q01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/exercises/Q02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/exercises/Q03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/exercises/Q05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/exercises/Q06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/exercises/Q07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/exercises/Q08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/exercises/Q09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/exercises/Q10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/exercises/Q11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/exercises/Q12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/exercises/Q13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/exercises/Q14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/exercises/Q15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/exercises/Q16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/exercises/Q17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/exercises/Q18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/exercises/Q19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/exercises/Q20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/exercises/Q21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/exercises/Q22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/exercises/Q23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/exercises/Q24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/exercises/Q25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/exercises/Q26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/exercises/relativ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.B103Maven_Junit/src/test/java/utilities/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../databasetesting_practic/src/test/java/tests/C02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbcTekrar/jdbcTekrar.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LvLfTJslAvTBgvcPfbAXVVGVKe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/ASUS/IdeaProjects/B103Cucumber",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/testdata" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/target" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.FailedRunner">
+    <configuration name="Scenario: TC01_musteri_giris_testi" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/day05_data_tables.feature" />
+      <option name="GLUE" value="stepdefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="batch103Cucumber" />
+      <option name="NAME_FILTER" value="^TC01_musteri_giris_testi$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^TC01_musteri_giris_testi$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: TC01_musteri_giris_testi" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: TC01_personel_olustur" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/day04_scenario_outline_2.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="batch103Cucumber" />
+      <option name="NAME_FILTER" value="^TC01_personel_olustur$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^TC01_personel_olustur$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: TC01_personel_olustur" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: TC02_google_tesla_arama" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/ilkfeaturefile.feature" />
+      <option name="GLUE" value="stepdefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="batch103Cucumber" />
+      <option name="NAME_FILTER" value="^TC02_google_tesla_arama$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^TC02_google_tesla_arama$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: TC02_google_tesla_arama" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FailedRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="batch103Cucumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runners" />
+      <option name="MAIN_CLASS_NAME" value="runners.FailedRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="batch103Cucumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runners" />
+      <option name="MAIN_CLASS_NAME" value="runners.Runner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FailedRunner" />
+        <item itemvalue="JUnit.Runner" />
+        <item itemvalue="Cucumber Java.Scenario: TC01_musteri_giris_testi" />
+        <item itemvalue="Cucumber Java.Scenario: TC01_personel_olustur" />
+        <item itemvalue="Cucumber Java.Scenario: TC02_google_tesla_arama" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c0080c1-8a1c-4c61-80b5-79fe0cb4fa43" name="Default Changelist" comment="" />
+      <created>1676746713812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676746713812</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
